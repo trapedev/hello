@@ -30,4 +30,8 @@ public class TsubuyakiService {
         found.forEach(list::add);
         return list;
     }
+
+    public List<Tsubuyaki> getTsubuyakiWithKeyword(String keyword) {
+        return repo.findByCommentContaining(keyword);
+    }
 }
