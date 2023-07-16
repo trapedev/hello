@@ -1,4 +1,4 @@
-package jp.kobe_u.cs.daikibo.tsubuyaki.entity;
+package kobe_u.cs.daikibo.tsubuyaki.entity;
 
 import java.util.Date;
 

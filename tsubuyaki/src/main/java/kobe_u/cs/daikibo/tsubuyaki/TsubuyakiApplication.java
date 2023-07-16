@@ -1,4 +1,4 @@
-package jp.kobe_u.cs.daikibo.tsubuyaki;
+package kobe_u.cs.daikibo.tsubuyaki;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

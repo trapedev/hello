@@ -1,4 +1,4 @@
-package jp.kobe_u.cs.daikibo.tsubuyaki.controller;
+package kobe_u.cs.daikibo.tsubuyaki.controller;
 
 import lombok.Data;
 
